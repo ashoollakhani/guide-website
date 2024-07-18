@@ -1,7 +1,5 @@
 # Website Guide 📚
 
-This project provides a guide to various topics using a PHP-based web application.
-
 ## Features 🌟
 
 - Responsive design using Bootstrap 5.
